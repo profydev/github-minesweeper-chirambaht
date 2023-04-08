@@ -20,6 +20,13 @@
         "Clear C3",
         "Clear C4",
         "Clear C5",
-        "Clear C8"
+        "Clear C8",
+        "Flag B6",
+        "Clear D1",
+        "Clear D2",
+        "Clear B3",
+        "Clear B4",
+        "Clear B5",
+        "Clear B8"
     ]
 }
