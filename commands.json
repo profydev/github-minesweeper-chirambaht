@@ -34,6 +34,8 @@
         "Clear A6",
         "Clear A7",
         "Clear A8",
-        "Clear A3"
+        "Clear A3",
+        "Flag A4",
+        "Clear A5"
     ]
 }
